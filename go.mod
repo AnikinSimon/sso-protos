@@ -1,4 +1,4 @@
-module sso-protos
+module github.com/GolangLessons/protos
 
 go 1.23.2
 
